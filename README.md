@@ -1,14 +1,11 @@
 # §Ꝅ¥
-An OG collab between lots of school mates
+
+A collaboration between a few school mates
 
 Made in unity 
 
 Features to come:
-
--map
-
--character
-
--first person
-
--movement 
+  - Map
+  - Character
+  - First person
+  - Movement 
