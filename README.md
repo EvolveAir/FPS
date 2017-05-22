@@ -2,8 +2,12 @@
 An OG collab between lots of school mates
 Made in unity <3
 
-Features to come
+Features to come:
+
 -map
--character 
+
+-character
+
 -first person
+
 -movement 
