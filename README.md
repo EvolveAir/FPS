@@ -7,5 +7,6 @@ Made in unity
 Features to come:
   - Map
   - Character
-  - First person
-  - Movement 
+  - <s>First person</s>
+  - <s>Movement</s>
+  - Pistol
