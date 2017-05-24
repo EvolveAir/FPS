@@ -10,3 +10,10 @@ Features to come:
   - <s>First person</s>
   - <s>Movement</s>
   - Pistol
+
+Possible future features:
+  - Aircraft and Helicopters
+  - Boats?
+  - Zombies mode
+  - Free running
+  - Survival mode
