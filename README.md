@@ -14,6 +14,6 @@ Features to come:
 Possible future features:
   - Aircraft and Helicopters
   - Boats?
+  - Cars and Tanks
   - Zombies mode
-  - Free running
-  - Survival mode
+  - Multiplayer mode
