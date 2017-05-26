@@ -17,3 +17,6 @@ Possible future features:
   - Cars and Tanks
   - Zombies mode
   - Multiplayer mode
+  - Easter eggs ;)
+  - Third person?
+  - Tutorial
