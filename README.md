@@ -1,4 +1,4 @@
-# §Ꝅ¥
+﻿# §Ꝅ¥
 
 A collaboration between a few school mates
 
@@ -6,7 +6,7 @@ Made in unity
 
 Features to come:
   - Map
-  - Character
+  - <s>Character</s>
   - <s>First person</s>
   - <s>Movement</s>
   - Pistol
