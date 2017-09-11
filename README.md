@@ -15,8 +15,13 @@ Possible future features:
   - Aircraft and Helicopters
   - Boats?
   - Cars and Tanks
-  - Zombies mode
+  - Zombies mode /survival mode
   - Multiplayer mode
   - Easter eggs ;)
   - Third person?
   - Tutorial
+  - Ammo types
+  - Armour systems
+  - Hardcore mode - more damage etc, no ui.
+  - Leveling system
+  - Dynamic hitboxes
