@@ -10,6 +10,7 @@ Features to come:
   - <s>First person</s>
   - <s>Movement</s>
   - Pistol
+  - Better Map With Map Assests
 
 Possible future features:
   - Aircraft and Helicopters
